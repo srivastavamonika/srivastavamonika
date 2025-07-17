@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Monika Srivastava — DevOps Engineer 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastavamonika&label=Profile%20views&color=0e75b6&style=flat" alt="srivastavamonika" /> </p>
+
 ## 🧑‍💻 About Me
 I'm a passionate **DevOps Engineer** with experience in automating cloud infrastructure, containerizing applications, and building scalable CI/CD pipelines. I enjoy streamlining operations and empowering development teams through efficient tooling and automation.
 
