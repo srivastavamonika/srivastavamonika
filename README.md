@@ -51,7 +51,7 @@ I'm a passionate **DevOps Engineer** with experience in automating cloud infrast
 ---
 
 ## 📈 GitHub Stats
-![Monika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavamonika&show_icons=true&theme=tokyonight)
+
  
 
 ---
