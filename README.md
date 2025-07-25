@@ -76,7 +76,6 @@ I'm a passionate **DevOps Engineer** with experience in automating cloud infrast
 ## 📫 Reach Me At
 
 - 📧 srivastavamonika0704@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/monika-srivastava-34b974356)  
 
 ---
 
